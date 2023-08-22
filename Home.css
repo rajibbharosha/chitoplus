@@ -11,3 +11,6 @@
   margin-top: 315px;
   margin-bottom: 0;
 }
+.menu-collapse {
+    display: none;
+}
